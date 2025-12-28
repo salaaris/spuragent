@@ -2,7 +2,10 @@
 
 A full-stack AI-powered live chat support agent built for Spur's take-home assignment. This application simulates a customer support chat where an AI agent answers user questions about a fictional e-commerce store.
 
+Live Demo: ([Live Demo: https://spuragent-frontend.onrender.com]https://spuragent-frontend.onrender.com))
+
 ## How to Run Locally
+
 
 ### Prerequisites
 
@@ -11,6 +14,8 @@ A full-stack AI-powered live chat support agent built for Spur's take-home assig
 - Google Gemini API key ([Get one here](https://makersuite.google.com/app/apikey))
 
 ### Step-by-Step Setup
+git clone https://github.com/salaaris/spuragent.git
+cd spuragent
 
 1. Install dependencies:
 
@@ -201,3 +206,5 @@ All errors are surfaced in the UI (graceful failure > silent failure).
 3. **Production Readiness**: Comprehensive logging, metrics, rate limiting, API versioning
 4. **Testing**: Unit tests, integration tests, E2E tests
 5. **Multi-channel Support**: Abstract channel interface for WhatsApp, Instagram, etc.
+
+BUILT WITH CURSOR BY VIGNESH!
