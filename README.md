@@ -13,8 +13,7 @@ Live @: https://spuragent-frontend.onrender.com
 - Google Gemini API key ([Get one here](https://makersuite.google.com/app/apikey))
 
 ### Step-by-Step Setup
-git clone https://github.com/salaaris/spuragent.git
-cd spuragent
+
 
 1. Clone repo & Install dependencies:
 
