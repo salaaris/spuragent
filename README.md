@@ -2,10 +2,10 @@
 
 A full-stack AI-powered live chat support agent built for Spur's take-home assignment. This application simulates a customer support chat where an AI agent answers user questions about a fictional e-commerce store.
 
-Live Demo: ([Live Demo: https://spuragent-frontend.onrender.com]https://spuragent-frontend.onrender.com))
+Live @: https://spuragent-frontend.onrender.com
 
 ## How to Run Locally
-
+#clone the repo
 
 ### Prerequisites
 
