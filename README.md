@@ -207,4 +207,4 @@ All errors are surfaced in the UI (graceful failure > silent failure).
 4. **Testing**: Unit tests, integration tests, E2E tests
 5. **Multi-channel Support**: Abstract channel interface for WhatsApp, Instagram, etc.
 
-BUILT WITH CURSOR BY VIGNESH!
+Built with cursor by vignesh.
