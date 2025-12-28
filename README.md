@@ -5,7 +5,6 @@ A full-stack AI-powered live chat support agent built for Spur's take-home assig
 Live @: https://spuragent-frontend.onrender.com
 
 ## How to Run Locally
-#clone the repo
 
 ### Prerequisites
 
@@ -17,9 +16,11 @@ Live @: https://spuragent-frontend.onrender.com
 git clone https://github.com/salaaris/spuragent.git
 cd spuragent
 
-1. Install dependencies:
+1. Clone repo & Install dependencies:
 
 ```bash
+git clone https://github.com/salaaris/spuragent.git
+cd spuragent
 npm install
 cd backend && npm install && cd ..
 cd frontend && npm install && cd ..
